@@ -1,0 +1,27 @@
+Processors:
+ - Ejecución de instrucciones: Decodifica y ejecuta las órdenes de los programas, 
+ - Control de flujo: Gestiona el orden en que se ejecutan las instrucciones de los programas.
+ - Gestión de entrada/salida: Coordina la comunicación entre el sistema y los dispositivos pre executed
+eriféricos.
+
+ - Execution of instructions: Decodes and executes program commands, 
+ - Flow control: Manages the order in which program instructions are executed.
+ - Input/output management: Coordinates communication between the system and peripheral devices.
+ Firmware
+ Caché
+
+
+113-135: 
+113-118: terminado -- falta diapos. Exordio , el discurso académico.
+119-124
+125-130
+131-135
+
+//constante establecerla
+// Función para particionar un archivo en bloques
+// Abrir archivo en modo binario
+//verificar si el archivo se particiono 
+//crear un vector blocks
+//particionar por cada 1024 bytes
+ // Procesar el último bloque si tiene un tamaño menor que BLOCK_SIZE
+ //Returnar el vector de vectores  y cerrar el archiv bin 

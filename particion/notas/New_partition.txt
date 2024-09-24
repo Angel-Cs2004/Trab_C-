@@ -1,0 +1,38 @@
+ NO TE SUICIDES TODAVIA .. NO SE SI ESTE BIEN ESCRITO 
+tenemos las siguientes vairables
+const
+size_t: es un tipo de entero que no tiene signo , indica tamano
+    -  Parte de la biblioteca estandar de c++.
+
+
+VECTORES:
+ incializar: 
+ - (vector)<(tipo de variable)>*name_vector*(tamano);
+ - (vector)<(tipo de variable)>*name_vector = {n0,n1,..., n(n)};
+ - vector(size,valor*indice)
+
+ CURISODADES DE VECTORES:
+    Se puede realizar vector de vectores: 
+        vector<vector<int>>name
+        Se veria asi: 
+        [[.........],[.........],[.......]]
+
+    Ahora bien tambien podemos dar una estructura:
+    vector<vector<int>>name(size,valor){
+        parametros de el vector de vectores, es para indica un bloque de codigo
+    }
+
+
+USOS DEL &:
+    - En punteros se utiliza para poder se;alar o ver la direccion de "x" variable
+        *punteros = &variable
+    - En otras ocaciones para senalar una referencia de varaible : ejm: 
+        vector<vector<char>> partitionFile(const string& filename) 
+
+USO DE LA LIBRERIA FSTREAM:
+    - Class ifstream, (input file)
+    - ifstream(name_file,type process)
+    - typre process : ios:: type == ejemplos
+        in - out - binary - app - trunc - ate
+    - sirve para verificar el flujo de datos, con un booleano
+    - metodos .good() , .eof(), .fail(), bad().

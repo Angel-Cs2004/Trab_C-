@@ -1,0 +1,19 @@
+LIBRERIAS:
+fstream == es una biblioteca;
+    - Por otra parte tenemos :
+        - ifstream: entrada y leida de datos
+        - ofstream: salida y escritura de datos
+    Cada uno de estas clases como if or of , tienen metodos
+    ifstream: 
+        .read(espacio, cantidad de avance)
+        .gcount()
+        .close()
+    ofstream: ofstream name(name, type de estencion == ios:: binary)
+        .write() == file.write(const char* buffer, std::streamsize size);
+        .close()
+
+filesystem:
+- Para concatenar si tal objeto es de tipo path
+- Para buscar al ruta directa : current_path()
+- Para crear una carpeta en x ruta: fs::create_directory(x)
+- para separar un nombre de su extencion == .stem()
