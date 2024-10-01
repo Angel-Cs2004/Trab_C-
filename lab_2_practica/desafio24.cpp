@@ -1,0 +1,1 @@
+24. Escribir un programa que indique al usuario si el número ingresado es un número primo o no lo es.

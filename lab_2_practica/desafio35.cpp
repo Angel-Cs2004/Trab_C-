@@ -1,0 +1,1 @@
+35. Escriba un algoritmo para determinar las posibles adquisiciones que se pueden hacer con 87 soles sin que sobre dinero de 3 productos de 5, 7 y 19 soles.

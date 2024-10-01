@@ -1,0 +1,4 @@
+22. Realice un programa que realice las funciones que a continuación se indican. Todas las opciones deben ser presentadas al usuario a través de un menú de opciones.
+• Escriba una función en la que se introduzcan 10 enteros y determine cuales de estos enteros son pares y cuales son impares.
+• Un número entero es un “número perfecto” si sus factores, incluyendo al 1 (pero excluyendo en el número mismo), suman igual que el numero. Ejemplo: 6 es un numero perfecto porque 6= 1+2+3. Escriba una función que regrese los primeros 100 números perfectos. Esta función debe tener una función anidada que determine al número perfecto.
+• Escriba una función que tome un valor entero de cuatro dígitos y regrese el número con los dígitos invertidos. Por ejemplo, dado el número 7631, la función deberá regresar 1367.

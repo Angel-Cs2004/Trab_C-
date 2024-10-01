@@ -1,0 +1,3 @@
+25. Escriba una función recursiva MCD que regrese el máximo común divisor de x y de y.
+El máximo común divisor de los enteros x e y es el número más grande que divide en forma completa tanto a x como a y.
+El gcd de x y de y, se define en forma recursiva como sigue: Si y es igual a 0, entonces gcd (de x, y) es x; de lo contrario gcd (de x, y) es igual a gcd(y, x%y).Indicar si el número ingresado es perfecto. Un número perfecto es aquel cuya suma de todos sus divisores excepto él mismo es igual al número ingresado.
